@@ -1,3 +1,5 @@
+[简体中文](README.zh-CN.md)
+
 # 纸上旧书 · 经典文学二十种
 
 Twenty original literary book-jacket studies, drawing on Chinese classical, modern, and international classics. Browse by category in a responsive gallery with full-size cover previews.
