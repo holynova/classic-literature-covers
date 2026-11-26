@@ -9,6 +9,8 @@ Twenty original literary book-jacket studies, drawing on Chinese classical, mode
 - Demo: https://xiaosang.cc/classic-literature-covers/
 - Source: https://github.com/holynova/classic-literature-covers
 
+![Demo QR code](assets/qr.png)
+
 ## Run locally
 
 Open `index.html` from a static HTTP server, for example `python3 -m http.server 8000`.

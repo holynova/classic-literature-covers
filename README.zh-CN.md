@@ -9,6 +9,8 @@
 - Demo：https://xiaosang.cc/classic-literature-covers/
 - 源码：https://github.com/holynova/classic-literature-covers
 
+![Demo 二维码](assets/qr.png)
+
 ## 本地运行
 
 在目录内运行 `python3 -m http.server 8000` 后访问 http://localhost:8000。
